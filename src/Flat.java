@@ -25,4 +25,7 @@ public class Flat {
         this.city=city;
 
         }
+        public void setFloor(int floor){
+        this.floor=floor;
+        }
     }
