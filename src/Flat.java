@@ -21,4 +21,8 @@ public class Flat {
             this.balcony = balcony;
         }
 
+        public void setCity(String city){
+        this.city=city;
+
+        }
     }
